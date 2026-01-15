@@ -4,3 +4,7 @@ h1 {
 h2 {
   color: green;
 }
+p {
+  color: red;
+  font-size: 20px;
+}
